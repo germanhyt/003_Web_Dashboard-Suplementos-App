@@ -17,7 +17,7 @@ const SaleStatistics = () => {
             }}
             src="https://charts.mongodb.com/charts-shoeshoptutorial-bzbxw/embed/charts?id=28397e9a-cc52-45f2-8da0-7a9a760c2f6d&maxDataAge=3600&theme=light&autoRefresh=true"
           ></iframe> */}
-          <iframe
+          {/* <iframe
             style={{
               background: "#FFFFFF",
               border: "none",
@@ -27,7 +27,7 @@ const SaleStatistics = () => {
               height: "350px",
             }}
             src="https://charts.mongodb.com/charts-project-0-yquau/embed/charts?id=641b240d-f356-40d6-83c1-71e46b5a3f81&maxDataAge=3600&theme=light&autoRefresh=true"
-          ></iframe>
+          ></iframe> */}
         </article>
       </div>
     </div>
